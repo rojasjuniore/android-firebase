@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40289121048",
+    "firebase_url": "https://so-app-a3c1a.firebaseio.com",
+    "project_id": "so-app-a3c1a",
+    "storage_bucket": "so-app-a3c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40289121048:android:e47a5f275676984d",
+        "android_client_info": {
+          "package_name": "com.veneco.rojasjuniore.so"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40289121048-k5t4u3llqb1m0hbe7n28s34j4m2rs8lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veneco.rojasjuniore.so",
+            "certificate_hash": "0ac0bb4807b4fed9f0b9a2782bd7b6acbd374258"
+          }
+        },
+        {
+          "client_id": "40289121048-5mp16v69dlu2ui57fsaqmktdgbn5qia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwgE7CdM23SwwyIEVcGLt1zMIFEh5oLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40289121048-5mp16v69dlu2ui57fsaqmktdgbn5qia8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
